@@ -1,0 +1,7 @@
+Para probar primero:
+
+streamlit_test\Scripts\activate
+
+Y después:
+
+streamlit run app.py
